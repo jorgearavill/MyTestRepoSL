@@ -1,13 +1,21 @@
 /*========================================
+<<<<<<< HEAD
  *    sl.c: SL version 5.03
  *        Copyright 1993,1998,2014-2015
+=======
+ *    sl.c: SL version 5.02
+ *        Copyright 1993,1998,2014
+>>>>>>> 0fd8d6f (Merge pull request #16 from jeffs/master)
  *                  Toyoda Masashi
  *                  (mtoyoda@acm.org)
  *        Last Modified: 2014/06/03
  *========================================
  */
+<<<<<<< HEAD
 /* sl version 5.03 : Fix some more compiler warnings.                        */
 /*                                              by Ryan Jacobs    2015/01/19 */
+=======
+>>>>>>> 0fd8d6f (Merge pull request #16 from jeffs/master)
 /* sl version 5.02 : Fix compiler warnings.                                  */
 /*                                              by Jeff Schwab    2014/06/03 */
 /* sl version 5.01 : removed cursor and handling of IO                       */
