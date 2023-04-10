@@ -7,6 +7,7 @@
 #==========================================
 
 CC=gcc
+<<<<<<< HEAD
 CFLAGS=-O -Wall
 
 all: sl
@@ -18,3 +19,4 @@ clean:
 	rm -f sl
 
 distclean: clean
+
